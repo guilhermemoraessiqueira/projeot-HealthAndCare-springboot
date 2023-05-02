@@ -1,13 +1,13 @@
-package com.healthandcare.projeto.projetoHealthAndCare;
+package com.healthandcare.projetoHealthAndCareBackEnd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoHealthAndCareApplication {
+public class ProjetoHealthAndCareBackEndApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoHealthAndCareApplication.class, args);
+		SpringApplication.run(ProjetoHealthAndCareBackEndApplication.class, args);
 	}
 
 }

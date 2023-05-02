@@ -1,10 +1,10 @@
-package com.healthandcare.projeto.projetoHealthAndCare;
+package com.healthandcare.projetoHealthAndCareBackEnd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjetoHealthAndCareApplicationTests {
+class ProjetoHealthAndCareBackEndApplicationTests {
 
 	@Test
 	void contextLoads() {
